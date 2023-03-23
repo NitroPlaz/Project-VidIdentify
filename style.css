@@ -1,0 +1,25 @@
+body {
+    background-color: lightblue;
+}
+
+p {
+    font-size: 25px ;
+}
+
+#Sketch-Score {
+font-size: 25px ;
+margin: 30px ;
+float: left;
+}
+
+#Sketch-Timer {
+    font-size: 25px ;
+    margin: 30px ;
+    float: right;
+}
+
+#sketch-Sketch2D {
+    font-size: 20px ;
+    margin: 30px ;
+    }
+
